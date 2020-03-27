@@ -20,7 +20,7 @@ build-Proyecto3-Unnamed-Debug/
 
 Simplemente lo ejectuan con  F5 y listo.
 
-Dentro de la carpeta "build-Proyecto3-Unnamed-Debug/" se encuentra la carpeta "archivos/" donde se guardan los archivos .zip a descomprimir, en esa misma carpeta se guardan los archivos. Disfrutenlo!!
+Dentro de la carpeta "build-Proyecto3-Unnamed-Debug/" se encuentra la carpeta "archivos/" donde se guardan los archivos .zip a descomprimir, en esa misma carpeta se guardan los archivos descomprimidos. Disfrutenlo!!
 
 
 
